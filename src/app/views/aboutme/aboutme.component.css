@@ -3,3 +3,21 @@ nav {
     padding: 1rem 0;
 
 }
+
+.text-color {
+    color: antiquewhite;
+}
+
+.sandbox {
+    margin-top: 2rem;
+    border: 1px solid #333;
+    padding: 2rem;
+  }
+
+  .frame {
+    margin-top: 1rem;
+    /* border: 0.25px solid rgb(155, 145, 145); */
+    padding: 1rem;
+    background-color:rgb(223, 235, 236);
+  }
+
